@@ -1,0 +1,246 @@
+[
+    {
+        "place_id": "322265081487",
+        "osm_id": "27524177",
+        "osm_type": "node",
+        "licence": "https:\/\/locationiq.com\/attribution",
+        "lat": "42.8765615",
+        "lon": "74.6070079",
+        "boundingbox": [
+            "42.7165615",
+            "43.0365615",
+            "74.4470079",
+            "74.7670079"
+        ],
+        "class": "place",
+        "type": "city",
+        "display_name": "Bishkek, Bishkek, 720040, Kyrgyzstan",
+        "display_place": "Bishkek",
+        "display_address": "720040, Kyrgyzstan",
+        "address": {
+            "name": "Bishkek",
+            "state": "Bishkek",
+            "postcode": "720040",
+            "country": "Kyrgyzstan",
+            "country_code": "kg"
+        }
+    },
+    {
+        "place_id": "322663782977",
+        "osm_id": "8493930",
+        "osm_type": "relation",
+        "licence": "https:\/\/locationiq.com\/attribution",
+        "lat": "42.8799039",
+        "lon": "74.58589061",
+        "boundingbox": [
+            "42.7873722",
+            "42.9718978",
+            "74.4936126",
+            "74.7177626"
+        ],
+        "class": "place",
+        "type": "city",
+        "display_name": "Bishkek, Kyrgyzstan",
+        "display_place": "Bishkek",
+        "display_address": "Kyrgyzstan",
+        "address": {
+            "name": "Bishkek",
+            "country": "Kyrgyzstan",
+            "country_code": "kg"
+        }
+    },
+    {
+        "place_id": "322493919112",
+        "osm_id": "112465353",
+        "osm_type": "way",
+        "licence": "https:\/\/locationiq.com\/attribution",
+        "lat": "42.8618265",
+        "lon": "74.58091735",
+        "boundingbox": [
+            "42.8569238",
+            "42.8665289",
+            "74.5745089",
+            "74.586965"
+        ],
+        "class": "landuse",
+        "type": "industrial",
+        "display_name": "Bishkek Machine Factory, Gas Town, Bishkek, Bishkek, 720008, Kyrgyzstan",
+        "display_place": "Bishkek Machine Factory",
+        "display_address": "Gas Town, Bishkek, Bishkek, 720008, Kyrgyzstan",
+        "address": {
+            "name": "Bishkek Machine Factory",
+            "suburb": "Gas Town",
+            "city": "Bishkek",
+            "state": "Bishkek",
+            "postcode": "720008",
+            "country": "Kyrgyzstan",
+            "country_code": "kg"
+        }
+    },
+    {
+        "place_id": "320401932201",
+        "osm_id": "3096996488",
+        "osm_type": "node",
+        "licence": "https:\/\/locationiq.com\/attribution",
+        "lat": "42.8762792",
+        "lon": "74.6131669",
+        "boundingbox": [
+            "42.8762292",
+            "42.8763292",
+            "74.6131169",
+            "74.6132169"
+        ],
+        "class": "shop",
+        "type": "doityourself",
+        "display_name": "Apple Service Provider \"MasterClass\", 106, Usenbaev Street, Bishkek, Bishkek, 720011, Kyrgyzstan",
+        "display_place": "Apple Service Provider \"MasterClass\"",
+        "display_address": "106, Usenbaev Street, Bishkek, Bishkek, 720011, Kyrgyzstan",
+        "address": {
+            "name": "Apple Service Provider \"MasterClass\"",
+            "house_number": "106",
+            "road": "Usenbaev Street",
+            "city": "Bishkek",
+            "state": "Bishkek",
+            "postcode": "720011",
+            "country": "Kyrgyzstan",
+            "country_code": "kg"
+        }
+    },
+    {
+        "place_id": "323067278753",
+        "osm_id": "51758067",
+        "osm_type": "way",
+        "licence": "https:\/\/locationiq.com\/attribution",
+        "lat": "42.8803643",
+        "lon": "74.6126141",
+        "boundingbox": [
+            "42.8802648",
+            "42.8804637",
+            "74.6124901",
+            "74.6127381"
+        ],
+        "class": "office",
+        "type": "telecommunication",
+        "display_name": "Beeline, 338, Mikhail Frunze Street, Bishkek, Bishkek, 720011, Kyrgyzstan",
+        "display_place": "Beeline",
+        "display_address": "338, Mikhail Frunze Street, Bishkek, Bishkek, 720011, Kyrgyzstan",
+        "address": {
+            "name": "Beeline",
+            "house_number": "338",
+            "road": "Mikhail Frunze Street",
+            "city": "Bishkek",
+            "state": "Bishkek",
+            "postcode": "720011",
+            "country": "Kyrgyzstan",
+            "country_code": "kg"
+        }
+    },
+    {
+        "place_id": "323794108884",
+        "osm_id": "164166710",
+        "osm_type": "way",
+        "licence": "https:\/\/locationiq.com\/attribution",
+        "lat": "42.8492916",
+        "lon": "74.6159046",
+        "boundingbox": [
+            "42.8467384",
+            "42.8517875",
+            "74.6093949",
+            "74.6289444"
+        ],
+        "class": "waterway",
+        "type": "canal",
+        "display_name": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u0411\u043e\u043b\u044c\u0448\u043e\u0439 \u0427\u0443\u0439\u0441\u043a\u0438\u0439 \u043a\u0430\u043d\u0430\u043b, Bishkek, Bishkek, 720005, Kyrgyzstan",
+        "display_place": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u0411\u043e\u043b\u044c\u0448\u043e\u0439 \u0427\u0443\u0439\u0441\u043a\u0438\u0439 \u043a\u0430\u043d\u0430\u043b",
+        "display_address": "Bishkek, Bishkek, 720005, Kyrgyzstan",
+        "address": {
+            "name": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u0411\u043e\u043b\u044c\u0448\u043e\u0439 \u0427\u0443\u0439\u0441\u043a\u0438\u0439 \u043a\u0430\u043d\u0430\u043b",
+            "city": "Bishkek",
+            "state": "Bishkek",
+            "postcode": "720005",
+            "country": "Kyrgyzstan",
+            "country_code": "kg"
+        }
+    },
+    {
+        "place_id": "322996961571",
+        "osm_id": "127291525",
+        "osm_type": "way",
+        "licence": "https:\/\/locationiq.com\/attribution",
+        "lat": "42.8464473",
+        "lon": "74.5980554",
+        "boundingbox": [
+            "42.8464131",
+            "42.8465437",
+            "74.5980502",
+            "74.5980689"
+        ],
+        "class": "waterway",
+        "type": "weir",
+        "display_name": "\u0413\u0438\u0434\u0440\u043e\u0443\u0437\u0435\u043b \u043f\u0440\u0438 \u0432\u043f\u0430\u0434\u0435\u043d\u0438\u0438 \u0412\u043e\u0441\u0442\u043e\u0447\u043d\u043e\u0433\u043e \u0411\u0427\u041a \u0432 \u0440\u0435\u043a\u0443 \u0410\u043b\u0430-\u0410\u0440\u0447\u0430, Bishkek, Bishkek, 720055, Kyrgyzstan",
+        "display_place": "\u0413\u0438\u0434\u0440\u043e\u0443\u0437\u0435\u043b \u043f\u0440\u0438 \u0432\u043f\u0430\u0434\u0435\u043d\u0438\u0438 \u0412\u043e\u0441\u0442\u043e\u0447\u043d\u043e\u0433\u043e \u0411\u0427\u041a \u0432 \u0440\u0435\u043a\u0443 \u0410\u043b\u0430-\u0410\u0440\u0447\u0430",
+        "display_address": "Bishkek, Bishkek, 720055, Kyrgyzstan",
+        "address": {
+            "name": "\u0413\u0438\u0434\u0440\u043e\u0443\u0437\u0435\u043b \u043f\u0440\u0438 \u0432\u043f\u0430\u0434\u0435\u043d\u0438\u0438 \u0412\u043e\u0441\u0442\u043e\u0447\u043d\u043e\u0433\u043e \u0411\u0427\u041a \u0432 \u0440\u0435\u043a\u0443 \u0410\u043b\u0430-\u0410\u0440\u0447\u0430",
+            "city": "Bishkek",
+            "state": "Bishkek",
+            "postcode": "720055",
+            "country": "Kyrgyzstan",
+            "country_code": "kg"
+        }
+    },
+    {
+        "place_id": "321720119225",
+        "osm_id": "770056767",
+        "osm_type": "way",
+        "licence": "https:\/\/locationiq.com\/attribution",
+        "lat": "42.8466861",
+        "lon": "74.5977673",
+        "boundingbox": [
+            "42.8464473",
+            "42.8467229",
+            "74.5976931",
+            "74.5980554"
+        ],
+        "class": "waterway",
+        "type": "canal",
+        "display_name": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u0411\u043e\u043b\u044c\u0448\u043e\u0439 \u0427\u0443\u0439\u0441\u043a\u0438\u0439 \u043a\u0430\u043d\u0430\u043b, Bishkek, Bishkek, 720055, Kyrgyzstan",
+        "display_place": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u0411\u043e\u043b\u044c\u0448\u043e\u0439 \u0427\u0443\u0439\u0441\u043a\u0438\u0439 \u043a\u0430\u043d\u0430\u043b",
+        "display_address": "Bishkek, Bishkek, 720055, Kyrgyzstan",
+        "address": {
+            "name": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u0411\u043e\u043b\u044c\u0448\u043e\u0439 \u0427\u0443\u0439\u0441\u043a\u0438\u0439 \u043a\u0430\u043d\u0430\u043b",
+            "city": "Bishkek",
+            "state": "Bishkek",
+            "postcode": "720055",
+            "country": "Kyrgyzstan",
+            "country_code": "kg"
+        }
+    },
+    {
+        "place_id": "321906852388",
+        "osm_id": "26543373",
+        "osm_type": "way",
+        "licence": "https:\/\/locationiq.com\/attribution",
+        "lat": "42.8964913",
+        "lon": "74.5903564",
+        "boundingbox": [
+            "42.8950565",
+            "42.897315",
+            "74.5637145",
+            "74.6165202"
+        ],
+        "class": "waterway",
+        "type": "canal",
+        "display_name": "\u0411\u043e\u043b\u044c\u0448\u043e\u0439 \u0427\u0443\u0439\u0441\u043a\u0438\u0439 \u041a\u0430\u043d\u0430\u043b, Bishkek, Bishkek, 720054, Kyrgyzstan",
+        "display_place": "\u0411\u043e\u043b\u044c\u0448\u043e\u0439 \u0427\u0443\u0439\u0441\u043a\u0438\u0439 \u041a\u0430\u043d\u0430\u043b",
+        "display_address": "Bishkek, Bishkek, 720054, Kyrgyzstan",
+        "address": {
+            "name": "\u0411\u043e\u043b\u044c\u0448\u043e\u0439 \u0427\u0443\u0439\u0441\u043a\u0438\u0439 \u041a\u0430\u043d\u0430\u043b",
+            "city": "Bishkek",
+            "state": "Bishkek",
+            "postcode": "720054",
+            "country": "Kyrgyzstan",
+            "country_code": "kg"
+        }
+    }
+]
